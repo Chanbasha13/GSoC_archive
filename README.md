@@ -16,6 +16,7 @@
 ## 👥 Contributors
 <!-- CONTRIBUTORS_START -->
 <a href="https://github.com/pavanjoshi914"><img src="https://github.com/pavanjoshi914.png" width="50px" alt="pavanjoshi914" /></a>
+<a href="https://github.com/PragnyaKhandelwal"><img src="https://github.com/PragnyaKhandelwal.png" width="50px" alt="PragnyaKhandelwal" /></a>
 <!-- CONTRIBUTORS_END -->
 
 > Every contributor who gets their proposal PR merged will be automatically added above! 🎉
